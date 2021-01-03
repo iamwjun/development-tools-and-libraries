@@ -7,3 +7,12 @@ Nginx config full examples：https://www.nginx.com/resources/wiki/start/topics/e
 Nginx config spa：https://cli.vuejs.org/guide/deployment.html#docker-nginx
 
 HTTP Client Testing Service HTTP客户端测试服务: https://httpbin.org/
+
+# Mac
+
+SwitchHosts: https://github.com/oldj/SwitchHosts/releases
+
+Charles: https://www.charlesproxy.com/
+
+Registered Name: https://zhile.io License Key: 48891cf209c6d32bf4
+
