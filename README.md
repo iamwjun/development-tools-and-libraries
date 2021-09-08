@@ -42,3 +42,4 @@ Registered Name: https://zhile.io License Key: 48891cf209c6d32bf4
 # 收藏文章
 
 [Webpack——令人困惑的地方](https://github.com/chemdemo/chemdemo.github.io/issues/13)   
+[Webpack——写一个插件](https://webpack.js.org/contribute/writing-a-plugin/)
