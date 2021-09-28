@@ -37,7 +37,9 @@ Registered Name: https://zhile.io License Key: 48891cf209c6d32bf4
 
 [监控和修复崩溃](https://github.com/getsentry/sentry)   
 
-[将环境变量从.env文件加载](https://github.com/motdotla/dotenv)
+[将环境变量从.env文件加载](https://github.com/motdotla/dotenv)   
+
+[Mock Service Worker](https://github.com/mswjs/msw)
 
 # 收藏文章
 
