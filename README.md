@@ -39,7 +39,9 @@ Registered Name: https://zhile.io License Key: 48891cf209c6d32bf4
 
 [将环境变量从.env文件加载](https://github.com/motdotla/dotenv)   
 
-[Mock Service Worker](https://github.com/mswjs/msw)
+[Mock Service Worker](https://github.com/mswjs/msw)   
+
+[browserslist](https://github.com/browserslist/browserslist)
 
 # 收藏文章
 
