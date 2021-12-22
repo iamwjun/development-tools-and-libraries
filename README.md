@@ -62,3 +62,13 @@ Registered Name: https://zhile.io License Key: 48891cf209c6d32bf4
 [ecosystem](https://testing-library.com/docs/ecosystem-user-event)   
 
 [react-hooks](https://react-hooks-testing-library.com/)   
+
+# 游戏库
+
+[pixijs](https://pixijs.com/)
+
+# Sketch plugins
+
+[Sketch Measure][导出标注html]   
+
+[Flavor][PxCook查看标注]
