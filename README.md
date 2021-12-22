@@ -41,7 +41,9 @@ Registered Name: https://zhile.io License Key: 48891cf209c6d32bf4
 
 [Mock Service Worker](https://github.com/mswjs/msw)   
 
-[browserslist](https://github.com/browserslist/browserslist)
+[browserslist](https://github.com/browserslist/browserslist)   
+
+[lerna with multiple packages](https://lerna.js.org/)
 
 # 收藏文章
 
