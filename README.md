@@ -47,7 +47,9 @@ Registered Name: https://zhile.io License Key: 48891cf209c6d32bf4
 
 [yargs/yargs](https://github.com/yargs/yargs)   
 
-[lerna with multiple packages](https://lerna.js.org/)
+[lerna with multiple packages](https://lerna.js.org/)   
+
+[mddir create directoryList](https://github.com/JohnByrneRepo/mddir)
 
 # 收藏文章
 
@@ -55,7 +57,9 @@ Registered Name: https://zhile.io License Key: 48891cf209c6d32bf4
 
 [Webpack——写一个插件](https://webpack.js.org/contribute/writing-a-plugin/)      
 
-[build-your-own-react](https://pomb.us/build-your-own-react/)
+[build-your-own-react](https://pomb.us/build-your-own-react/)   
+
+[MicroApp 设计原理](https://zhuanlan.zhihu.com/p/393533835)
 
 # 单元测试示例
 
