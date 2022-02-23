@@ -49,7 +49,9 @@ Registered Name: https://zhile.io License Key: 48891cf209c6d32bf4
 
 [lerna with multiple packages](https://lerna.js.org/)   
 
-[mddir create directoryList](https://github.com/JohnByrneRepo/mddir)
+[mddir create directoryList](https://github.com/JohnByrneRepo/mddir)   
+
+[React TypeScript Sample](https://github.com/oizhaolei/typescript-msal-sample)
 
 # 收藏文章
 
