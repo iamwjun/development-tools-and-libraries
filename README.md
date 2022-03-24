@@ -67,7 +67,11 @@ Registered Name: https://zhile.io License Key: 48891cf209c6d32bf4
 
 [build-your-own-react](https://pomb.us/build-your-own-react/)   
 
-[MicroApp 设计原理](https://zhuanlan.zhihu.com/p/393533835)
+[MicroApp 设计原理](https://zhuanlan.zhihu.com/p/393533835)   
+
+[前端 “一键换肤“ 的 N 种方案](https://mp.weixin.qq.com/s/M7Av6vJTnSpjSB7vnifEdQ)   
+
+[storybook 构建一个简单的组件](https://storybook.js.org/tutorials/intro-to-storybook/react/zh-CN/simple-component/)
 
 # 单元测试示例
 
