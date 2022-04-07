@@ -53,7 +53,9 @@ Registered Name: https://zhile.io License Key: 48891cf209c6d32bf4
 
 [React TypeScript Sample](https://github.com/oizhaolei/typescript-msal-sample)   
 
-[MDX - 组件时代的Markdown](https://github.com/mdx-js/mdx/)
+[MDX - 组件时代的Markdown](https://github.com/mdx-js/mdx/)   
+
+[airbnb lottie动画库](https://github.com/airbnb/lottie)
 
 # 前端工具库
 
