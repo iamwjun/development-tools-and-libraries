@@ -73,7 +73,9 @@ Registered Name: https://zhile.io License Key: 48891cf209c6d32bf4
 
 [前端 “一键换肤“ 的 N 种方案](https://mp.weixin.qq.com/s/M7Av6vJTnSpjSB7vnifEdQ)   
 
-[storybook 构建一个简单的组件](https://storybook.js.org/tutorials/intro-to-storybook/react/zh-CN/simple-component/)
+[storybook 构建一个简单的组件](https://storybook.js.org/tutorials/intro-to-storybook/react/zh-CN/simple-component/)   
+
+[microsoft dev web for beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 # 单元测试示例
 
