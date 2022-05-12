@@ -65,6 +65,12 @@ Registered Name: https://zhile.io License Key: 48891cf209c6d32bf4
 
 [组件开发工具storybook](https://github.com/storybookjs/storybook)  
 
+# AST
+
+[TypeScript Compiler API](https://github.com/microsoft/TypeScript/wiki/Using-the-Compiler-API)   
+
+[Babel parser, traverse and generator](https://babeljs.io/docs/en/babel-parser)
+
 # 收藏文章
 
 [Webpack——令人困惑的地方](https://github.com/chemdemo/chemdemo.github.io/issues/13)   
