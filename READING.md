@@ -1,6 +1,6 @@
 # Reading expands horizons
 
-[2022-06-22] - 采访面试官
+[2022-06-21] - 采访面试官
 [Interview the interviewer](https://github.com/readme/guides/technical-interviews)   
 
 [2022-06-20] - [软件工程 - 软技能]
