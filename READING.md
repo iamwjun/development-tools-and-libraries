@@ -1,5 +1,8 @@
 # Reading expands horizons
 
+[2022-07-06] - 维护内部React组件库的注意事项
+[Notes on maintaining an internal React component library](https://www.gabe.pizza/notes-on-component-libraries/)
+
 [2022-06-21] - 采访面试官
 [Interview the interviewer](https://github.com/readme/guides/technical-interviews)   
 
