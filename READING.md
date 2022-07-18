@@ -1,5 +1,8 @@
 # Reading expands horizons
 
+[latest] - Good blog
+[swizec](https://swizec.com/)
+
 [2022-07-18] - Don't Repeat Yourself
 [Why DRY is the most over-rated programming principle](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
 
