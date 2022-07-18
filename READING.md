@@ -1,5 +1,8 @@
 # Reading expands horizons
 
+[2022-07-18] - Don't Repeat Yourself
+[Why DRY is the most over-rated programming principle](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
+
 [2022-07-18] - 是什么造就了一个伟大的软件工程师
 [What makes a great software engineer?](https://swizec.com/blog/what-makes-a-great-software-engineer/)
 
