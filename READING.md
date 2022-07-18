@@ -1,5 +1,8 @@
 # Reading expands horizons
 
+[2022-07-18] - 是什么造就了一个伟大的软件工程师
+[What makes a great software engineer?](https://swizec.com/blog/what-makes-a-great-software-engineer/)
+
 [2022-07-06] - 维护内部React组件库的注意事项
 [Notes on maintaining an internal React component library](https://www.gabe.pizza/notes-on-component-libraries/)
 
