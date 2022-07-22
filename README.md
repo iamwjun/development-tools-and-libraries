@@ -21,6 +21,8 @@ Charles: https://www.charlesproxy.com/
 
 Registered Name: https://zhile.io License Key: 48891cf209c6d32bf4
 
+[beekeeper-studio: Database management tools](https://www.beekeeperstudio.io/)
+
 # 前端备用库
 
 [代码富文本编辑器monaco-editor](https://microsoft.github.io/monaco-editor/index.html)   
