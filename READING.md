@@ -3,6 +3,9 @@
 [latest] - Good blog
 [swizec](https://swizec.com/)
 
+[2022-07-26] - gltf overview
+[gltfOverview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/figures/gltfOverview-2.0.0b.png)
+
 [2022-07-26] - How to Run Node.js in a Browser
 [How to Run Node.js in a Browser](https://hackernoon.com/how-to-run-nodejs-in-a-browser-wc4s32by)
 
