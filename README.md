@@ -59,7 +59,11 @@ Registered Name: https://zhile.io License Key: 48891cf209c6d32bf4
 
 [airbnb lottie动画库](https://github.com/airbnb/lottie)   
 
-[gsap 动画库](github.com/greensock/GSAP)
+[gsap 动画库](github.com/greensock/GSAP)   
+
+[BrowserFS](github.com/greensock/GSAP)   
+
+[memfs browser file-system](github.com/greensock/GSAP)
 
 # 前端工具库
 
