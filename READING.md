@@ -3,6 +3,9 @@
 [latest] - Good blog
 [swizec](https://swizec.com/)
 
+[2022-07-26] - shadow dom vs iframes
+[shadow dom vs iframes](https://www.bitnative.com/2014/10/02/shadow-dom-vs-iframes/)
+
 [2022-07-26] - gltf overview
 [gltfOverview](https://github.com/KhronosGroup/glTF/blob/main/specification/2.0/figures/gltfOverview-2.0.0b.png)
 
