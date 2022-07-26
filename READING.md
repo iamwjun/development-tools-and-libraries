@@ -3,6 +3,9 @@
 [latest] - Good blog
 [swizec](https://swizec.com/)
 
+[2022-07-26] - How to Run Node.js in a Browser
+[How to Run Node.js in a Browser](https://hackernoon.com/how-to-run-nodejs-in-a-browser-wc4s32by)
+
 [2022-07-18] - Don't Repeat Yourself
 [Why DRY is the most over-rated programming principle](https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/)
 
