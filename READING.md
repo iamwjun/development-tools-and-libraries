@@ -3,6 +3,9 @@
 [latest] - Good blog
 [swizec](https://swizec.com/)
 
+[2022-08-03] - mozilla WebGL 教程
+[mozilla WebGL](https://developer.mozilla.org/zh-CN/docs/Web/API/WebGL_API)
+
 [2022-07-26] - shadow dom vs iframes
 [shadow dom vs iframes](https://www.bitnative.com/2014/10/02/shadow-dom-vs-iframes/)
 
