@@ -3,6 +3,9 @@
 [latest] - Good blog
 [swizec](https://swizec.com/)
 
+[2022-08-23] - software engineering at google
+[software engineering at google](https://qiangmzsx.github.io/Software-Engineering-at-Google/#/?id=software-engineering-at-google)
+
 [2022-08-03] - mozilla WebGL 教程
 [mozilla WebGL](https://developer.mozilla.org/zh-CN/docs/Web/API/WebGL_API)
 
