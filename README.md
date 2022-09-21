@@ -3,6 +3,10 @@ Better Comments
 GitLens  
 formate: CSS/LESS/SCSS formatter
 
+# 规范约定
+
+Semantic Versioning(语义化版本) 2.0.0: [https://semver.org/](https://semver.org/)
+
 # 开发工具以及一些常用的库
 
 VS Code及Java环境：http://aka.ms/vscode-java-installer-win
