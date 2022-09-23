@@ -47,6 +47,8 @@ Registered Name: https://zhile.io License Key: 48891cf209c6d32bf4
 
 [Mock Service Worker](https://github.com/mswjs/msw)   
 
+[faker mock](https://github.com/faker-js/faker)   
+
 [browserslist](https://github.com/browserslist/browserslist)   
 
 [commander.js](https://github.com/tj/commander.js)   
@@ -108,6 +110,8 @@ Registered Name: https://zhile.io License Key: 48891cf209c6d32bf4
 [ecosystem](https://testing-library.com/docs/ecosystem-user-event)   
 
 [react-hooks](https://react-hooks-testing-library.com/)   
+
+[cypress](https://github.com/cypress-io/cypress)   
 
 # 游戏库
 
