@@ -97,8 +97,6 @@ Registered Name: https://zhile.io License Key: 48891cf209c6d32bf4
 
 [storybook 构建一个简单的组件](https://storybook.js.org/tutorials/intro-to-storybook/react/zh-CN/simple-component/)   
 
-[microsoft dev web for beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
-
 # 单元测试示例
 
 [react-router](https://reactrouter.com/web/guides/testing)   
@@ -132,3 +130,14 @@ Registered Name: https://zhile.io License Key: 48891cf209c6d32bf4
 # Entrepreneurship Reference
 
 [retool 低代码](https://retool.com/blog)   
+
+
+# learn
+
+[免费课程 freeCodeCamp.org](https://github.com/freeCodeCamp/freeCodeCamp)   
+
+[You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)    
+
+[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)     
+
+[microsoft dev web for beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
