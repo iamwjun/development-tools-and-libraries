@@ -1,7 +1,12 @@
 # Reading expands horizons
 
 [latest] - Good blog
-[swizec](https://swizec.com/)
+[swizec](https://swizec.com/)     
+[Christoph Nakazawa - Jest's author](https://cpojer.net/)
+
+[2022-10-18] - Build a React Custom Renderer
+[Build a React Custom Renderer](https://www.markcodes.dev/posts/build-react-custom-renderer-part-1)    
+[Fastest Frontend Tooling in 2022](https://cpojer.net/posts/fastest-frontend-tooling-in-2022)
 
 [2022-08-23] - software engineering at google
 [software engineering at google](https://qiangmzsx.github.io/Software-Engineering-at-Google/#/?id=software-engineering-at-google)
