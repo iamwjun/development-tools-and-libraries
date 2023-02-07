@@ -2,7 +2,10 @@
 
 [latest] - Good blog
 [swizec](https://swizec.com/)     
-[Christoph Nakazawa - Jest's author](https://cpojer.net/)
+[Christoph Nakazawa - Jest's author](https://cpojer.net/)     
+
+[2023-02-07] - 再谈“Software Stack”之“软件栈”译法!
+[Software Stack](https://www.ituring.com.cn/article/1144)
 
 [2022-10-18] - Build a React Custom Renderer
 [Build a React Custom Renderer](https://www.markcodes.dev/posts/build-react-custom-renderer-part-1)    
