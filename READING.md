@@ -4,6 +4,13 @@
 [swizec](https://swizec.com/)     
 [Christoph Nakazawa - Jest's author](https://cpojer.net/)     
 
+[2023-02-13]
+[字节前端监控实践 - 知乎](https://zhuanlan.zhihu.com/p/603752974)
+[字节前端监控实践 - 掘金](https://juejin.cn/post/7195496297150709821)
+[learn rust](https://github.com/i5ting/learn-rust-for-fe)
+[2022大前端总结和2023就业分析](https://juejin.cn/post/7196110128038690876)
+[React recursively re-renders child components, but there is a nuance](https://alexsidorenko.com/blog/react-render-children-prop/)
+
 [2023-02-07] - 再谈“Software Stack”之“软件栈”译法!
 [Software Stack](https://www.ituring.com.cn/article/1144)
 
