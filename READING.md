@@ -2,7 +2,14 @@
 
 [latest] - Good blog
 [swizec](https://swizec.com/)     
-[Christoph Nakazawa - Jest's author](https://cpojer.net/)     
+[Christoph Nakazawa - Jest's author](https://cpojer.net/)  
+
+[2023-02-14]
+[explore ts-junit](https://github.com/i5ting/ts-junit)
+[Rust Is The Future of JavaScript Infrastructure](https://leerob.io/blog/rust)
+[webpack tree shaking](https://webpack.js.org/guides/tree-shaking/)
+[Rust is a hard way to make a web API](https://macwright.com/2021/01/15/rust.html)
+[Introducing Rome](https://rome.tools/blog/2020/08/08/introducing-rome/)
 
 [2023-02-13]
 [字节前端监控实践 - 知乎](https://zhuanlan.zhihu.com/p/603752974)
