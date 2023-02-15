@@ -4,6 +4,9 @@
 [swizec](https://swizec.com/)     
 [Christoph Nakazawa - Jest's author](https://cpojer.net/)  
 
+[2023-02-15]
+[Rust vs. Go](https://news.ycombinator.com/item?id=22336284)
+
 [2023-02-14]
 [explore ts-junit](https://github.com/i5ting/ts-junit)
 [Rust Is The Future of JavaScript Infrastructure](https://leerob.io/blog/rust)
