@@ -4,6 +4,11 @@
 [swizec](https://swizec.com/)     
 [Christoph Nakazawa - Jest's author](https://cpojer.net/)  
 
+[2023-02-16]
+[字节前端监控实践](https://juejin.cn/post/7195496297150709821)
+[10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends/)
+[We actually need more JavaScript frameworks](https://whitep4nth3r.com/talks/we-need-more-javascript-frameworks/)
+
 [2023-02-15]
 [Rust vs. Go](https://news.ycombinator.com/item?id=22336284)
 
