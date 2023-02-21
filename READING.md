@@ -2,7 +2,13 @@
 
 [latest] - Good blog
 [swizec](https://swizec.com/)     
-[Christoph Nakazawa - Jest's author](https://cpojer.net/)  
+[Christoph Nakazawa - Jest's author](https://whitep4nth3r.com/blog/how-to-get-timezone-in-javascript-with-edge-functions/)  
+
+[2023-02-20]
+[React components composition: how to get it right](https://www.developerway.com/posts/components-composition-how-to-get-it-right)
+
+[2023-02-17]
+[How to get the user’s timezone in JavaScript with Edge Functions](https://juejin.cn/post/7195496297150709821)
 
 [2023-02-16]
 [字节前端监控实践](https://juejin.cn/post/7195496297150709821)
