@@ -4,6 +4,9 @@
 [swizec](https://swizec.com/)     
 [Christoph Nakazawa - Jest's author](https://whitep4nth3r.com/blog/how-to-get-timezone-in-javascript-with-edge-functions/)  
 
+[2023-02-21]
+[Rust, SolidJS, and Tauri: Create a cross-platform desktop app](https://blog.logrocket.com/rust-solid-js-tauri-desktop-app/)
+
 [2023-02-20]
 [React components composition: how to get it right](https://www.developerway.com/posts/components-composition-how-to-get-it-right)
 
