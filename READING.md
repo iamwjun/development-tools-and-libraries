@@ -4,6 +4,9 @@
 [swizec](https://swizec.com/)     
 [Christoph Nakazawa - Jest's author](https://whitep4nth3r.com/blog/how-to-get-timezone-in-javascript-with-edge-functions/)  
 
+[2023-02-23]
+[Forking Chrome to render in a terminal](https://fathy.fr/carbonyl)
+
 [2023-02-21]
 [Rust, SolidJS, and Tauri: Create a cross-platform desktop app](https://blog.logrocket.com/rust-solid-js-tauri-desktop-app/)
 
