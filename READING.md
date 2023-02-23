@@ -5,6 +5,7 @@
 [Christoph Nakazawa - Jest's author](https://whitep4nth3r.com/blog/how-to-get-timezone-in-javascript-with-edge-functions/)  
 
 [2023-02-23]
+[Computer-basics](https://github.com/JessonYue/Computer-basics)
 [Forking Chrome to render in a terminal](https://fathy.fr/carbonyl)
 
 [2023-02-21]
