@@ -4,6 +4,9 @@
 [swizec](https://swizec.com/)     
 [Christoph Nakazawa - Jest's author](https://whitep4nth3r.com/blog/how-to-get-timezone-in-javascript-with-edge-functions/)  
 
+[2023-02-27]
+[turbo core concepts](https://turbo.build/pack/docs/core-concepts)
+
 [2023-02-23]
 [topics compilation principle](https://github.com/topics/compilation-principle)
 [Computer-basics](https://github.com/JessonYue/Computer-basics)
